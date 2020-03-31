@@ -1,3 +1,4 @@
 1) Find phone
 2) Pull up preferred pizza delivery app
 3) Order pizza
+4) Don't forget to tip the driver!
