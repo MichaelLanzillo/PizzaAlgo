@@ -5,3 +5,5 @@
 5) Enjoy your pizza!! (and hope they made it correctly)
 6) I like messing things up apparently
 7) This is changes to master branch for merge conflict
+7) This is the changes for the final branch, not master
+
